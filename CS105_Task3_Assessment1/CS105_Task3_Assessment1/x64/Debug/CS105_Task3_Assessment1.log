@@ -1,0 +1,15 @@
+﻿  CS105_Task3_Assessment1.cpp
+C:\Users\kevin\source\repos\CS105_Task3_Assessment1\CS105_Task3_Assessment1\CS105_Task3_Assessment1.cpp(109,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\kevin\source\repos\CS105_Task3_Assessment1\CS105_Task3_Assessment1\CS105_Task3_Assessment1.cpp(109,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\kevin\source\repos\CS105_Task3_Assessment1\CS105_Task3_Assessment1\CS105_Task3_Assessment1.cpp(113,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\kevin\source\repos\CS105_Task3_Assessment1\CS105_Task3_Assessment1\CS105_Task3_Assessment1.cpp(113,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\kevin\source\repos\CS105_Task3_Assessment1\CS105_Task3_Assessment1\CS105_Task3_Assessment1.cpp(124,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\kevin\source\repos\CS105_Task3_Assessment1\CS105_Task3_Assessment1\CS105_Task3_Assessment1.cpp(128,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\kevin\source\repos\CS105_Task3_Assessment1\CS105_Task3_Assessment1\CS105_Task3_Assessment1.cpp(128,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\kevin\source\repos\CS105_Task3_Assessment1\CS105_Task3_Assessment1\CS105_Task3_Assessment1.cpp(138,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\kevin\source\repos\CS105_Task3_Assessment1\CS105_Task3_Assessment1\CS105_Task3_Assessment1.cpp(138,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\kevin\source\repos\CS105_Task3_Assessment1\CS105_Task3_Assessment1\CS105_Task3_Assessment1.cpp(142,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\kevin\source\repos\CS105_Task3_Assessment1\CS105_Task3_Assessment1\CS105_Task3_Assessment1.cpp(142,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\kevin\source\repos\CS105_Task3_Assessment1\CS105_Task3_Assessment1\CS105_Task3_Assessment1.cpp(152,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\kevin\source\repos\CS105_Task3_Assessment1\CS105_Task3_Assessment1\CS105_Task3_Assessment1.cpp(156,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  CS105_Task3_Assessment1.vcxproj -> C:\Users\kevin\source\repos\CS105_Task3_Assessment1\x64\Debug\CS105_Task3_Assessment1.exe
